@@ -14,5 +14,5 @@ let largestNumFound = (num) => {
         }
     }
     return largestNum
-}
-console.log(largestNumFound([5, 1, 9, 3]))
+} 
+console.log(largestNumFound([5, 1, 9, 3]));
